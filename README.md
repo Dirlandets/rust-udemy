@@ -16,4 +16,4 @@ Introduction is sciped, so it starts from part 2.
 * lesson 17: Practice: Combination Lock
 
 ## Part 4
-pass
+In progress...
