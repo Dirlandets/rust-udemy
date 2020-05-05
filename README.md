@@ -11,7 +11,7 @@ Introduction is sciped, so it starts from part 2.
 
 ## Part 3
 * lesson 13: if Statement
-* lesson 14: and 15 Loops (While / For / Loop)
+* lesson 14 and 15:  Loops (While / For / Loop)
 * lesson 16: Match statement
 * lesson 17: Practice: Combination Lock
 
