@@ -16,4 +16,4 @@ Introduction is sciped, so it starts from part 2.
 * lesson 17: Practice: Combination Lock
 
 ## Part 4
-In progress...
+lesson 18: Structs - with some extra example (metgods, vectors).
