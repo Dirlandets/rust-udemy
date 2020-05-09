@@ -44,6 +44,7 @@ impl Matrix {
 }
 
 pub fn run() {
+    println!("\n====4.18 STRUCTS====");
     let p1 = Point {x: 1, y: 3};
     let p2 = Point {x: 8, y: 6};
     let points = vec![&p1, &p2];
