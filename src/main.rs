@@ -14,8 +14,9 @@ fn main() {
     part_3_control_flow::if_statement::run();
     part_3_control_flow::loops::run();
     part_3_control_flow::match_statement::run();
-    // part_3_control_flow::combination_lock::run();
+    // part_3_control_flow::combination_lock::run(); 
     println!("+++++ PART 4 DATA STRUCTURES +++++");
     part_4_data_structures::structs::run();
+    part_4_data_structures::enums::run();
     // input::run();
 }
