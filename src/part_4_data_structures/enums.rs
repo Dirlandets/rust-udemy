@@ -1,5 +1,3 @@
-use std::fmt;
-
 enum Color {
     Red,
     Green,
