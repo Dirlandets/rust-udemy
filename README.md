@@ -2,6 +2,14 @@
 
 Introduction is sciped, so it starts from part 2. 
 
+## Useful links for new rustlings
+* [The Rust Reference](https://doc.rust-lang.org/stable/reference/)
+* [Rustbook RUS](https://doc.rust-lang.ru/book/)
+* [Rustbook EN](https://doc.rust-lang.org/stable/book/)
+* [Rust by Example RUS](https://doc.rust-lang.ru/stable/rust-by-example/)
+* [Rust by Example EN](https://doc.rust-lang.org/stable/rust-by-example/)
+* [Learning Rust https://learning-rust.github.io/](https://learning-rust.github.io/)
+
 ## Part 2
 * lesson 8: Core Data Types 
 * lesson 9: Operators
