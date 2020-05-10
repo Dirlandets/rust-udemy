@@ -18,5 +18,6 @@ fn main() {
     println!("+++++ PART 4 DATA STRUCTURES +++++");
     part_4_data_structures::structs::run();
     part_4_data_structures::enums::run();
+    part_4_data_structures::unions::run();
     // input::run();
 }

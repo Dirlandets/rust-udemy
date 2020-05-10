@@ -18,3 +18,4 @@ Introduction is sciped, so it starts from part 2.
 ## Part 4
 * lesson 18: Structs - with some extra example (metgods, vectors).
 * lesson 19: Enums
+* lesson 20: Unions
