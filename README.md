@@ -25,3 +25,5 @@ Introduction is sciped, so it starts from part 2.
 * lesson 18: Structs - with some extra example (metgods, vectors).
 * lesson 19: Enums
 * lesson 20: Unions
+* lesson 21: Option<T> and if let/while let
+* lesson 22: Arrays

@@ -36,7 +36,7 @@ pub fn run() {
         // Если не сматчитлся, то напечатать "SOME COLOR"
         // Попробуй закомментить Color::Green => println!("GREEN").
         // Так же попробуй закоментить Color::Green => println!("GREEN") и строку _ => println!("SOME COLOR")  ниже.
-        // Компилятор наорет на тебя, что не все случаи обраьотаны "pattern <Pattern> not covered"
+        // Компилятор наорет на тебя, что не все случаи обработаны "pattern <Pattern> not covered"
         _ => println!("SOME COLOR")
     };
 

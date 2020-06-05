@@ -11,7 +11,7 @@ impl Matrix {
     /// Функция которая создает матрицу из height и width
     /// TODO: Вернуться и переписать когда пройду курс до конца.
     /// Сейчас не хватает инструментария и понимания :/
-    fn new(height: u8, width: u8) -> Matrix {
+    fn new(height: u16, width: u16) -> Matrix {
         let mut matrix: Vec<Vec<String>> = Vec::new();
         for _ in 0..height {
             let mut line: Vec<String> = vec![];

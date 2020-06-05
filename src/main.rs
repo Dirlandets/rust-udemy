@@ -19,5 +19,8 @@ fn main() {
     part_4_data_structures::structs::run();
     part_4_data_structures::enums::run();
     part_4_data_structures::unions::run();
+    part_4_data_structures::option_if_let_while_let::run();
+    part_4_data_structures::arrays::run();
+    part_4_data_structures::tuples::run();
     // input::run();
 }
