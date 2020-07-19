@@ -92,7 +92,9 @@ fn match_color(color: Color) -> String {
         Color::Green => String::from("GREEN"),
         Color::Blue => String::from("BLUE"),
         Color::RGBColor(0, 0, 0)  // rgb black = 000
-        | Color::CmykColor{cyan: _, magenta: _, yellow: _, black: 255} => format!("BLACK"), // Cmyk blaack is when black 255 "_" mean any value
+        // | Color::CmykColor{cyan: _, magenta: _, yellow: _, black: 255} => format!("BLACK"), // Cmyk blaack is when black 255 "_" mean any value
+        // the same as:
+        | Color::CmykColor{black: 255, ..} => format!("BLACK"), // Cmyk blaack is when black 255 "_" mean any value
         Color::RGBColor(r, g, b) => format!("rgb({}, {}, {})", r, g, b),
         Color::CmykColor{cyan: c, magenta: m, yellow: y, black: b} => format!("cmyk({}, {}, {}, {})", c, m, y, b),
         _ => String::from("SOME COLOR")
